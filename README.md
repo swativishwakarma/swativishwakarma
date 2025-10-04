@@ -1,4 +1,4 @@
-<p align="center"><a href=#"><img width="80%" alt="Hello, I'm Swati Vishwakarma  src="./assets/gh-header.png" /></a></p>
+<p align="center"><a href=#"><img width="80%" alt="Hello, I'm Swati Vishwakarma"  src="./assets/gh-header.png" /></a></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swativishwakarma)](https://github.com/swativishwakarma/github-readme-stats)
 
 ![swativishwakarma's GitHub stats](https://github-readme-stats.vercel.app/api?username=swativishwakarma&show_icons=true&theme=radical)
