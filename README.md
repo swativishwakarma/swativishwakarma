@@ -5,7 +5,9 @@
 I'm a  passionate Java developer from India 🇮🇳
 
 **About me**
-
+- 🚀 I'm a passionate Java Developer who loves to code and learn new technologies.
+- 💻 Languages & Tools: Java, Sql, Spring-Boot, Spring-Jpa, Maven.
+- 📚 Learning about: Learning Low Level Design in java, Solid Principle, Design Pattern.
 
 
 
