@@ -17,10 +17,10 @@ I'm a  passionate Java developer from India 🇮🇳
 
 
 
-|<div align=center> <img width=390 align="center" src="https://streak-stats.demolab.com/?user=swativishwakarma&count_private=true&theme=react&border_radius=10" alt="streak stats"/> </div> |
+|<div align=center > <img width=390 align="center" src="https://streak-stats.demolab.com/?user=swativishwakarma&count_private=true&theme=react&hide_border=true" alt="streak stats"/> </div> |
 | ------------- |
 
-| <a href="https://github.com/swativishwakarma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=swativishwakarma&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="swativishwakarma's github stats" /></a> | <a href="https://github.com/swativishwakarma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swativishwakarma&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/swativishwakarma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=swativishwakarma&show_icons=true&include_all_commits=true&theme=react&rank_icon=github&hide_border=true" alt="swativishwakarma's github stats" /></a> | <a href="https://github.com/swativishwakarma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swativishwakarma&hide=HTML&langs_count=8&layout=compact&theme=react&hide_border=true" /></a> |
 | ------------- | ------------- |
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swativishwakarma)](https://github.com/swativishwakarma/github-readme-stats)-->
 
